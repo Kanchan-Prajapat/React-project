@@ -1,0 +1,61 @@
+.main{
+    height: 400px;
+    width: 1230px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px gray, -5px -5px 10px gray ;
+
+}
+
+.i1{
+    height: 270px;
+    width: 270px;
+    margin-left: 25px;
+    margin-top: 30px;
+    border: 2px solid rgb(40, 172, 196);
+    box-shadow: 5px 5px 10px gray;
+}
+.i2{
+    height: 270px;
+    width: 270px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 2px solid rgb(40, 172, 196);
+     box-shadow: 5px 5px 10px gray;
+}
+.i3{
+    height: 270px;
+    width: 270px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 2px solid rgb(40, 172, 196);
+     box-shadow: 5px 5px 10px gray;
+}
+.i4{
+    height: 270px;
+    width: 270px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: 2px solid rgb(40, 172, 196);
+     box-shadow: 5px 5px 10px gray;
+}
+
+.button1{
+    height: 30px;
+    width: 100px;
+    border: 1px solid rgb(88, 91, 92) ;
+    border-radius: 5px;
+    background-color: rgb(40, 172, 196);
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.button1:hover{
+    background-color: rgb(31, 145, 184);
+    scale: 1.02;
+}
+

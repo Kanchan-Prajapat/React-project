@@ -1,0 +1,50 @@
+.footer{
+    height: 30px;
+    background-color: gray;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.footer:hover{
+   font-size: 17px;
+}
+
+.cart1{
+    margin-left: 155px;
+    margin-top: -77px;
+     display: flex;
+    gap: 10px;
+}
+.cart2{
+    margin-left: 485px;
+    margin-top: -24px;
+     display: flex;
+    gap: 10px;
+}
+.cart3{
+    margin-left: 810px;
+    margin-top: -23px;
+    display: flex;
+    gap: 10px;
+}
+.cart4{
+    margin-left: 1135px;
+    margin-top: -25px;
+     display: flex;
+    gap: 10px;
+  
+}
+.add{
+    height: 25px;
+    width: 35px;
+    background-color: rgb(99, 102, 104);
+    color: aliceblue;
+    border: 1px solid white;
+    font-size: 20px;
+    margin-top: -1px;
+}
+ .add:hover{
+    background-color: whitesmoke ;
+    color: black;
+     border: 1px solid black;
+ }
